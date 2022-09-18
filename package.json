@@ -1,0 +1,22 @@
+{
+  "name": "parish-merger-ui",
+  "version": "1.0.0",
+  "description": "A UI for predicting the results of St Louis parish reorganization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brennanATN/parish-merger-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanATN/parish-merger-ui/issues"
+  },
+  "homepage": "https://github.com/brennanATN/parish-merger-ui#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
